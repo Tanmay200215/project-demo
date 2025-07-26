@@ -1,4 +1,4 @@
 # project-demo
 This is a Demo Repository.
 <br>
-Author - Tanmay Mohadikar
+Author - Tanmay Mohadikar (ITC Infotech)
